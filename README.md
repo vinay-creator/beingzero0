@@ -1,1 +1,2 @@
-# beingzero0
+# MEANCLASS0
+MY FIRST GIT PROJECT
